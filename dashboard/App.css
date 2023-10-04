@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+}
+
+.details{
+    text-align: center;
+    background-color: white;
+}
+.pet{
+    text-align: center;
+    background-color: white;
+}
+
+button{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 500px;
+}
+.nav-link{
+    color:  black;
+    transition: 0.3s;
+   
+    }
+    .nav-link:hover{
+        color:brown;}
+    .container1{
+        background-color: #C37E4C;
+        height: 100%;
+       
+       
+    }
+    footer{
+        background-color: #C37E4C;
+        text-decoration-color: aliceblue;
+       
+    }
+    .href{
+        text-decoration-color: aliceblue;
+    }
+   
+    h1{
+        text-align: center;
+        color: #C37E4C;
+    }
+    
+    .image{
+        background-image: url("./images/sjdm.jpg");
+        background-size: 800px;
+        background-repeat: no-repeat;
+    }
+    .control{
+        background-color: #fff;
+    }

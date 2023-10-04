@@ -1,0 +1,190 @@
+
+.banner-section{
+    background-color: whitesmoke;
+}
+.container1{
+    background-color: #E67370;
+}
+
+.text-section{
+    background-color: #E67370;
+}
+.vety{
+    opacity: 0.50;
+}
+.navbar{
+    background-color: #DE5382;
+}
+.nav-link{
+color:  white;
+transition: 0.3s;
+}
+.nav-link:hover{
+    color:black;
+}
+.dog{
+    opacity: 0.65;
+}
+
+
+footer {
+   
+    height: 270px;
+    background: #DE5382;
+    padding: 100px 0px;
+    color: #FFF;
+  
+}
+
+footer h3 {
+    font-size: 26px;
+    color:#DE5382 ;
+}
+
+.footer-menu ul {
+    padding: 0;
+    margin: 0;
+}
+
+.footer-menu ul li {
+    list-style: none;
+}
+
+.footer-menu ul li a {
+    color: #FFF;
+    text-decoration: none;
+}
+
+ul.footer-social {
+    margin: 20px 0px 0px;
+    padding: 0px;
+}
+
+ul.footer-social li {
+    list-style: none;
+    display: inline-flex;
+}
+
+ul.footer-social li a {
+    width: 30px;
+    height: 270x;
+    background: #FFF;
+    text-align: center;
+    line-height: 270x;
+    color: #000;
+    border-radius: 50%;
+    margin-right: 8px;
+}
+
+ul.footer-social li a:hover {
+    background: black;
+    color: #C37E4C;
+} 
+
+.input-group {
+    max-width: 407px;
+}
+
+.input-group button {
+    padding: 9px 33px;
+    border: 2px solid #C37E4C;
+    background: black;
+    color: #FFF;
+    font-size: 21px;
+}
+img{
+    background-size: cover;
+}
+
+
+
+/*responisve css*/
+
+
+
+@media (max-width:767px){
+.banner-text {
+    text-align: center;
+}
+
+.banner-text h1 {
+    font-size: 30px;
+    margin-bottom: 0px;
+    line-height: 270x;
+}
+
+.banner-text p {
+    font-size: 15px;
+}
+
+section.banner-section {
+    padding: 30px 0px 30px;
+}
+
+.banner-img {
+    max-width: 300px;
+    margin: 0px auto;
+}
+section.services-section {
+    padding: 40px 0px 11px;
+}	
+section.text-section {
+    padding: 40px 0px 81px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: 15px;
+}
+
+.text-col h2, .text-col p {
+    margin-bottom: 10px;
+}
+
+.text-col {
+    text-align: center;
+    margin-bottom: 20px;
+}
+section.text-section.animal-section {
+    padding-bottom: 51px;
+}
+
+section.text-section.animal-section .text-col {
+    text-align: center;
+    margin-top: 70px;
+    margin-bottom: 0;
+}
+section.shop-section {
+    padding: 40px 0px 10px;
+} 	
+	
+section.team-section {
+    padding: 40px 0px 10px;
+}	
+.stats-section {
+    padding: 30px 0px 30px;
+}
+
+.stats-box {
+    margin-bottom: 30px;
+}	
+section.blog-section {
+    padding: 40px 0px 20px;
+}	
+footer {
+    padding: 40px 0px;
+}
+
+.footer-col {
+    margin-bottom: 34px;
+}
+.navbar-light .navbar-toggler {
+    background: #FFF;
+}
+ 	
+	
+	
+}
