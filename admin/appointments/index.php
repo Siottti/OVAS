@@ -14,7 +14,7 @@
 						<th>Pet</th>
 						<th>Clinic</th>
 						<th>Status</th>
-						<th>Action</th>
+						<th>Action   </th>
 					</tr>
 				</thead>
 				<tbody>
